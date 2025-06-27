@@ -1,0 +1,9 @@
+.vscode/*
+build/*
+engine/build/*
+/src/main
+/src/gmon.out
+/main
+/gmon.out
+/obj
+/analysis.txt
